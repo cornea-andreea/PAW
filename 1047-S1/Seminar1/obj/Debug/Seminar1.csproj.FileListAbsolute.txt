@@ -1,0 +1,7 @@
+A:\PAW\1047\Seminar1\Seminar1\bin\Debug\Seminar1.exe.config
+A:\PAW\1047\Seminar1\Seminar1\bin\Debug\Seminar1.exe
+A:\PAW\1047\Seminar1\Seminar1\bin\Debug\Seminar1.pdb
+A:\PAW\1047\Seminar1\Seminar1\obj\Debug\Seminar1.csprojAssemblyReference.cache
+A:\PAW\1047\Seminar1\Seminar1\obj\Debug\Seminar1.csproj.CoreCompileInputs.cache
+A:\PAW\1047\Seminar1\Seminar1\obj\Debug\Seminar1.exe
+A:\PAW\1047\Seminar1\Seminar1\obj\Debug\Seminar1.pdb
