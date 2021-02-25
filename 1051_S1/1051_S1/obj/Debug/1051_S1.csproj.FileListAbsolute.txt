@@ -1,0 +1,7 @@
+A:\PAW\1051\1051_S1\1051_S1\bin\Debug\1051_S1.exe.config
+A:\PAW\1051\1051_S1\1051_S1\bin\Debug\1051_S1.exe
+A:\PAW\1051\1051_S1\1051_S1\bin\Debug\1051_S1.pdb
+A:\PAW\1051\1051_S1\1051_S1\obj\Debug\1051_S1.csprojAssemblyReference.cache
+A:\PAW\1051\1051_S1\1051_S1\obj\Debug\1051_S1.csproj.CoreCompileInputs.cache
+A:\PAW\1051\1051_S1\1051_S1\obj\Debug\1051_S1.exe
+A:\PAW\1051\1051_S1\1051_S1\obj\Debug\1051_S1.pdb
